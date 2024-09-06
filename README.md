@@ -4,7 +4,7 @@
 ![Editing Components](https://github.com/user-attachments/assets/d9307937-88b4-49c1-bb30-952026e11157)
 
 
-# Codígos
+# Códigos
 void setup() {
 pinMode(LED_BUILTIN, OUTPUT);
 }
